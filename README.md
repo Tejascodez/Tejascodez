@@ -103,15 +103,6 @@
 
 ---
 
-## 🎨 Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-*💡 This section auto-updates with your latest blog posts using GitHub Actions*
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -122,10 +113,6 @@
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
   
 </div>
-
----
-
-
 
 ---
 
