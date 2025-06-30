@@ -58,26 +58,8 @@
 
 ---
 
-## 📈 Coding Activity
+## 🏅   Currently working on  Coding Platforms(Leetcode,Hackerrank,codeforces etc)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-*💡 To enable this section, set up [WakaTime](https://wakatime.com/) with your GitHub profile*
-
----
-
-## 🏅 Coding Platforms
-
-<div align="center">
-  
-| Platform | Profile | Stats |
-|----------|---------|-------|
-| **LeetCode** | [Visit Profile](https://leetcode.com/YourLeetCode) | ![LeetCode Stats](https://leetcard.jacoblin.cool/YourLeetCode?theme=dark&font=Noto%20Sans&ext=heatmap) |
-| **HackerRank** | [Visit Profile](https://www.hackerrank.com/YourHackerRank) | ⭐ 5 Star Problem Solver |
-| **CodeChef** | [Visit Profile](https://www.codechef.com/users/YourCodeChef) | 🏆 Contest Participant |
-
-</div>
 
 ---
 
@@ -88,7 +70,7 @@
 - 👯 I'm looking to collaborate on **open source projects**
 - 🤔 I'm looking for help with **advanced algorithmic problems**
 - 💬 Ask me about **React, Node.js, JavaScript, or any tech stuff**
-- 📫 How to reach me: **[Your Email]**
+- 📫 How to reach me: **[tejastp834@gmail.com]**
 - ⚡ Fun fact: **I can code for hours with just coffee and good music! ☕🎵**
 
 ---
@@ -107,11 +89,6 @@
 ---
 
 <div align="center">
-  
-  ### 🎵 Currently Vibing To
-  
-  [![Spotify](https://github-readme-stats.vercel.app/api/spotify-playing/username?theme=tokyonight)](https://open.spotify.com/user/yourusername)
-  
   ---
   
   **"Code is like humor. When you have to explain it, it's bad."** - Cory House
@@ -119,7 +96,5 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   
   ---
-  
-  ⭐️ From [Tejascodez](https://github.com/Tejascodez) | Made with ❤️ and lots of ☕
-  
+  ⭐️ From [Tejascodez](https://github.com/Tejascodez) | Made with ❤️ and lots of ☕ 
 </div>
