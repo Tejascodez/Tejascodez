@@ -3,7 +3,7 @@
 <p><strong><a href="https://tejas-patil.vercel.app" target="_blank">Portfolio</a></strong> 🚀</p>
 <img src="https://komarev.com/ghpvc/?username=Tejascodez&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </div>
----
+
 
 ## 🛠️ Tech Stack
 
@@ -21,14 +21,14 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,postman,linux,figma" alt="Tools"/>
 </p>
----
+
 
 ## 🏆 GitHub Trophies
   <img src="https://github-profile-trophy.vercel.app/?username=Tejascodez&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
----
+
 ## 🏅   Currently working on  Coding Platforms(Leetcode,Hackerrank,codeforces etc)
 
----
+
 
 ## 🌟 What I'm Up To
 
@@ -37,7 +37,7 @@
 - 💬 Ask me about **React, Node.js, JavaScript, or any tech stuff**
 - 📫 How to reach me: **[tejastp834@gmail.com]**
 - ⚡ Fun fact: **I can code for hours with just coffee and good music! ☕🎵**
----
+
 
 ## 🤝 Connect With Me
 
@@ -47,6 +47,6 @@
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tejas-patil.vercel.app)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
----
+
 
   ⭐️ From [<a href="https://github.com/Tejascodez/">Tejascodez</a>] | Made with ❤️ and lots of ☕ 
