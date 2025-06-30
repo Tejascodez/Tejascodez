@@ -1,5 +1,5 @@
 # Hi there, I'm Tejas Patil! 👋
-<div>
+<div display="flex-center">
 <p><strong><a href="https://tejas-patil.vercel.app" target="_blank">Portfolio</a></strong> 🚀</p>
 <img src="https://komarev.com/ghpvc/?username=Tejascodez&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </div>
