@@ -1,12 +1,7 @@
 # Hi there, I'm Tejas Patil! 👋
 <p><strong><a href="https://tejas-patil.vercel.app" target="_blank">Portfolio</a></strong>🚀</p>
-<div![Profile Views](https://komarev.com/ghpvc/?username=Tejascodez&style=for-the-badge&color=blueviolet)/>
+<div![Profile Views](https://komarev.com/ghpvc/?username=Tejascodez&style=for-the-badge&color=blueviolet)></div>
 
-<div align="center">  
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
-  
-</div>
 
 ---
 
