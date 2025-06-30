@@ -23,10 +23,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,postman,linux,figma" alt="Tools"/>
 </p>
-
----
-
-## 📊 GitHub Analytics
 ---
 
 ## 🏆 GitHub Trophies
