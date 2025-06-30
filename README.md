@@ -32,10 +32,6 @@
 ---
 
 ## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejascodez&theme=tokyonight" alt="GitHub Streak"/>
-</div>
 ---
 
 ## 🏆 GitHub Trophies
@@ -89,12 +85,6 @@
 ---
 
 <div align="center">
-  ---
-  
-  **"Code is like humor. When you have to explain it, it's bad."** - Cory House
-  
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  
   ---
   ⭐️ From [Tejascodez](https://github.com/Tejascodez) | Made with ❤️ and lots of ☕ 
 </div>
