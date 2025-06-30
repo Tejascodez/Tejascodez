@@ -41,19 +41,6 @@
 
 ---
 
-## 🎯 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tejascodez&repo=your-awesome-project&theme=tokyonight)](https://github.com/Tejascodez/your-awesome-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tejascodez&repo=another-cool-project&theme=tokyonight)](https://github.com/Tejascodez/another-cool-project)
-
-</div>
-
-> **Note:** Replace `your-awesome-project` and `another-cool-project` with your actual repository names
-
----
-
 ## 🏅   Currently working on  Coding Platforms(Leetcode,Hackerrank,codeforces etc)
 
 
